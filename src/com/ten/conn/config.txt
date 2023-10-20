@@ -1,0 +1,4 @@
+oracle.jdbc.OracleDriver
+jdbc:oracle:thin:@172.24.1.41:1521:FREE
+system
+system

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebContent/style.css" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoCou.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoQuery.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoSc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoStu.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoTea.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/cou/serDeleteCou.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/cou/serDoInsertCou.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/sc/serDeleteSc.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/sc/serInsertSc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/sc/serUpdateClass.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/serDoLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/stu/serInsertStu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/user/Course.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/xsgl2.sql" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/../ten_2/ten/src/com/ten/dao/DaoSc.java" charset="GB2312" />
+  </component>
+</project>

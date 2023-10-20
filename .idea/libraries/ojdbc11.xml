@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ojdbc11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/ojdbc11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/orai18n-11.2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
